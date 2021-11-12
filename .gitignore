@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+
+# Binaries
+bin/
+src/hashtable/test
+src/btree/iter/test
+src/btree/rec/test
+
+# Cmake build files
+cmake-build-debug/
